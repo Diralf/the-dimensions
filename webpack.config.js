@@ -92,7 +92,7 @@ module.exports = {
 		},
 		compress: true,
 		hot: true,
-		port: 9000,
+		port: 8100,
 		open: true,
 	},
 	watch: false,
